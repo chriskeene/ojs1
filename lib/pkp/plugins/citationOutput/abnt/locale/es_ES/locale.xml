@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../dtd/locale.dtd">
+
+<!--
+  * plugins/citationOutput/abnt/locale/es_ES/locale.xml
+  *
+  * Copyright (c) 2013-2014 Simon Fraser University Library
+  * Copyright (c) 2003-2014 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the es_ES (Español) locale.
+  -->
+
+<locale name="es_ES" full_name="Español">
+	<message key="plugins.citationOutput.abnt.displayName">Formato de citación ABNT</message>
+	<message key="plugins.citationOutput.abnt.description">Implementa el formato de citación ABNT.</message>
+</locale>
